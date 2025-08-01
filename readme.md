@@ -18,7 +18,7 @@ A sleek, responsive, and keyboard-compatible modern calculator built using **HTM
 ## 📸 Live Demo
 
 👉 [Check NexCalc Live]()  
-(https://huzaifa-nath.github.io/NexCalc-/)
+(https://huzaifa-nath.github.io/NexCalc/)
 
 ---
 
@@ -34,5 +34,5 @@ A sleek, responsive, and keyboard-compatible modern calculator built using **HTM
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/huzaifa-nath/NexCalc.git
+   git clone https://huzaifa-nath.github.io/NexCalc/
    
