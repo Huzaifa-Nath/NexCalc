@@ -17,8 +17,8 @@ A sleek, responsive, and keyboard-compatible modern calculator built using **HTM
 
 ## 📸 Live Demo
 
-👉 [Check NexCalc Live]()  
-(https://huzaifa-nath.github.io/NexCalc/)
+👉 [Check NexCalc Live](https://huzaifa-nath.github.io/NexCalc/)  
+
 
 ---
 
